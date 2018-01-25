@@ -14,8 +14,10 @@ that a car is in that region.
 Here is a test...
 
 Raw Image:
+
 ![alt text](results/car.jpg?raw=true "Car Raw")
 
 Distribution:
+
 ![alt text](results/car1_map.jpg?raw=true "Car Scanned")
 
