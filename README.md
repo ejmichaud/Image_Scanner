@@ -1,2 +1,2 @@
-# Image_Scanner
-A system for scanning images for objects using a multi-layer convolutional neural network.
+# Car-Counter
+A computer vision system that counts cars as they pass through a video frame
